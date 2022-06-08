@@ -1,0 +1,22 @@
+body.b{
+    background-color:peachpuff
+}
+.tbl{
+    background-color:aqua;
+    margin-top: 50px;
+    margin-left: 625px;
+}
+th{
+    font-style: italic;
+    background-color: chartreuse;
+}
+h1.gin{
+    font-style:italic;
+    text-align: center;
+    margin-top: 150px;
+   
+}
+.in{
+    font-style:italic;
+    text-align: center;
+}
